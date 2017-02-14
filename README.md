@@ -82,5 +82,6 @@ On first run create an admin account, any folder and its subfolders that you map
 
 ## Versions
 
++ **14.02.17:** Rebase to alpine 3.5.
 + **14.10.16:** Add version layer information.
 + **30.09.16:** Initial Release. 
