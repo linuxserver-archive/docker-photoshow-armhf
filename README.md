@@ -2,6 +2,8 @@
 [forumurl]: https://forum.linuxserver.io
 [ircurl]: https://www.linuxserver.io/irc/
 [podcasturl]: https://www.linuxserver.io/podcast/
+[appurl]: https://github.com/thibaud-rohmer/PhotoShow
+[hub]: https://hub.docker.com/r/lsioarmhf/photoshow/
 
 [![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_medium.png)][linuxserverurl]
 
@@ -12,12 +14,10 @@ The [LinuxServer.io][linuxserverurl] team brings you another container release f
 
 # lsioarmhf/photoshow
 [![](https://images.microbadger.com/badges/version/lsioarmhf/photoshow.svg)](https://microbadger.com/images/lsioarmhf/photoshow "Get your own version badge on microbadger.com")[![](https://images.microbadger.com/badges/image/lsioarmhf/photoshow.svg)](https://microbadger.com/images/lsioarmhf/photoshow "Get your own image badge on microbadger.com")[![Docker Pulls](https://img.shields.io/docker/pulls/lsioarmhf/photoshow.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/lsioarmhf/photoshow.svg)][hub][![Build Status](http://jenkins.linuxserver.io:8080/buildStatus/icon?job=Dockers/LinuxServer.io-armhf/lsioarmhf-photoshow)](http://jenkins.linuxserver.io:8080/job/Dockers/job/LinuxServer.io-armhf/job/lsioarmhf-photoshow/)
-[hub]: https://hub.docker.com/r/lsioarmhf/photoshow/
 
-[Photoshow][photoshowurl] is gallery software at its easiest, it doesn't even require a database. 
+[Photoshow][appurl] is gallery software at its easiest, it doesn't even require a database. 
 
-[![photoshow](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/photoshow-icon.png)][photoshowurl]
-[photoshowurl]: https://github.com/thibaud-rohmer/PhotoShow
+[![photoshow](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/photoshow-icon.png)][appurl]
 
 ## Usage
 
