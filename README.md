@@ -82,6 +82,7 @@ On first run create an admin account, any folder and its subfolders that you map
 
 ## Versions
 
++ **07.01.18:** Rebase to alpine 3.7.
 + **29.05.17:** Rebase to alpine 3.6.
 + **03.05.17:** Update to php 7.1x.
 + **14.02.17:** Rebase to alpine 3.5.
